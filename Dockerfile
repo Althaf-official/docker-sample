@@ -9,3 +9,4 @@ CMD python run.py
 #docker ps
 #docker ps -a
 #docker stop nostalgic_edison
+#docker run -d first_image
