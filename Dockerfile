@@ -5,3 +5,5 @@ WORKDIR /code
 COPY . /code/
 RUN pip install -r requirements.txt
 CMD python run.py
+
+#docker ps
